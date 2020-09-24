@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Social-Media-Project/static/css/main.27716fba.chunk.css",
+    "main.js": "/Social-Media-Project/static/js/main.e00a8ba3.chunk.js",
+    "main.js.map": "/Social-Media-Project/static/js/main.e00a8ba3.chunk.js.map",
+    "runtime-main.js": "/Social-Media-Project/static/js/runtime-main.18adaa7a.js",
+    "runtime-main.js.map": "/Social-Media-Project/static/js/runtime-main.18adaa7a.js.map",
+    "static/js/2.dcc14eb5.chunk.js": "/Social-Media-Project/static/js/2.dcc14eb5.chunk.js",
+    "static/js/2.dcc14eb5.chunk.js.map": "/Social-Media-Project/static/js/2.dcc14eb5.chunk.js.map",
+    "index.html": "/Social-Media-Project/index.html",
+    "precache-manifest.be01e2261593c929fc2be0d5e17be24c.js": "/Social-Media-Project/precache-manifest.be01e2261593c929fc2be0d5e17be24c.js",
+    "service-worker.js": "/Social-Media-Project/service-worker.js",
+    "static/css/main.27716fba.chunk.css.map": "/Social-Media-Project/static/css/main.27716fba.chunk.css.map",
+    "static/js/2.dcc14eb5.chunk.js.LICENSE.txt": "/Social-Media-Project/static/js/2.dcc14eb5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Social-Media-Project/static/media/logo.5d5d9eef.svg",
+    "static/media/meme.webp": "/Social-Media-Project/static/media/meme.9b06277e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18adaa7a.js",
+    "static/js/2.dcc14eb5.chunk.js",
+    "static/css/main.27716fba.chunk.css",
+    "static/js/main.e00a8ba3.chunk.js"
+  ]
+}
